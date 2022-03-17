@@ -1,8 +1,11 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
+ Un triángulo es equilátero, si posee sus tres lados iguales, es isósceles si tiene solamente
+ dos lados iguales y es escaleno cuando todos sus lados son desiguales. Escriba un
+ programa que lea las dimensiones de los lados de un triángulo, y presente como salida
+ el mensaje de la clasificación del triángulo
+ 
+*/
 package Ejemplo5;
 
 import java.util.Scanner;
